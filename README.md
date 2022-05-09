@@ -1,7 +1,7 @@
 # multiplicatiion-and-division-program
 multiplicatiion and division of binary program that use unsigned integer and Booth's Algorithm(Multiplicatiion)
 
-*Must have lib pyqt5, numpy and DroidSansMono font
+*Must have lib pyqt5, numpy and font DroidSansMono 
 
 ![image](https://user-images.githubusercontent.com/75197663/154283790-11f89fe4-3c62-43dd-be37-d70981f34957.png)
 
